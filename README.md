@@ -24,11 +24,17 @@ Soy **Diego**, desarrollador backend y full stack con **más de cuatro años de 
 
 ### Dralmey · Full-stack Developer
 
-- Diseño e implementación de sistemas basados en **microservicios con React y Python**.
-- Optimización de la integración con **bases de datos NoSQL**, con foco en volumen de datos y escalabilidad.
-- Trabajo en funcionalidades de frontend y backend e integración entre servicios.
+Desarrollo de servicios backend, integraciones y funcionalidades de aplicaciones con **Python y React**.
 
-**Inicio de la experiencia:** julio de 2024. Más información en [LinkedIn](https://www.linkedin.com/in/diegomoralesdev/).
+- **Notificaciones:** integración de correo por SMTP y mensajería con Telegram.
+- **AWS:** integración de servicios cloud y gestión de secretos con **AWS Secrets Manager**.
+- **Microservicios:** comunicación entre servicios con **gRPC y Protocol Buffers (Protobuf)**.
+- **Acceso y seguridad:** desarrollo de módulos de autorización.
+- **Información de negocio:** desarrollo de reportes.
+- **IA y herramientas:** trabajo con **MCP y agentes**.
+- **Datos:** integración y optimización de bases de datos NoSQL, con foco en escalabilidad.
+
+**Inicio de la experiencia:** julio de 2024. [Perfil laboral en GitHub](https://github.com/diegomoralesuru) · [LinkedIn](https://www.linkedin.com/in/diegomoralesdev/)
 
 ## Proyecto para explorar
 
