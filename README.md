@@ -8,7 +8,7 @@
 
 ## Software útil. IA aplicada. Integraciones que conectan.
 
-Soy **Diego**, desarrollador enfocado en **Python, servicios backend y automatización documental**. Trabajo en el proyecto **Curupí** con Kairos Tech y exploro cómo integrar **OCR y RAG** en aplicaciones que trabajan con documentos.
+Soy **Diego**, desarrollador backend y full stack con **más de cuatro años de experiencia**. Mi experiencia combina **React, Python, microservicios y bases de datos NoSQL**. También participo en **Curupí** con Kairos Tech y exploro la integración de **OCR y RAG** en aplicaciones documentales.
 
 **Busco oportunidades en Backend Python y AI Engineering**, donde pueda aportar desarrollo de APIs, integración de servicios y seguir profundizando en IA aplicada.
 
@@ -19,6 +19,16 @@ Soy **Diego**, desarrollador enfocado en **Python, servicios backend y automatiz
 <td width="33%" valign="top"><h3>03 / Desarrollo</h3><p>Docker · Linux · React Native</p><p>Entornos reproducibles y aplicaciones móviles con Expo.</p></td>
 </tr>
 </table>
+
+## Experiencia profesional destacada
+
+### Dralmey · Full-stack Developer
+
+- Diseño e implementación de sistemas basados en **microservicios con React y Python**.
+- Optimización de la integración con **bases de datos NoSQL**, con foco en volumen de datos y escalabilidad.
+- Trabajo en funcionalidades de frontend y backend e integración entre servicios.
+
+**Inicio de la experiencia:** julio de 2024. Más información en [LinkedIn](https://www.linkedin.com/in/diegomoralesdev/).
 
 ## Proyecto para explorar
 
