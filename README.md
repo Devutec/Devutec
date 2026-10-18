@@ -38,6 +38,16 @@ Estos repositorios son **forks de proyectos de terceros** que uso como referenci
 **Aplicaciones:** React Native · Expo  
 **Herramientas:** Git · Docker · Docker Compose · Linux
 
+### Mis cuentas de GitHub
+
+Mi actividad está distribuida entre tres cuentas. Podés consultar los proyectos y contribuciones públicos de cada una:
+
+| Cuenta | Perfil |
+| :--- | :--- |
+| **Devutec** | [github.com/Devutec](https://github.com/Devutec) |
+| **diegomoralespdev** | [github.com/diegomoralespdev](https://github.com/diegomoralespdev) |
+| **diegomoralesuru** | [github.com/diegomoralesuru](https://github.com/diegomoralesuru) |
+
 ### Conectemos
 
 Busco oportunidades para desarrollar soluciones de IA aplicada, automatización documental y servicios backend.
