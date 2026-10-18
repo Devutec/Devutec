@@ -46,7 +46,7 @@ Mi actividad está distribuida entre tres cuentas. Podés consultar los proyecto
 | :--- | :--- |
 | **Devutec** | [github.com/Devutec](https://github.com/Devutec) |
 | **diegomoralespdev** | [github.com/diegomoralespdev](https://github.com/diegomoralespdev) |
-| **diegomoralesuru** | [github.com/diegomoralesuru](https://github.com/diegomoralesuru) |
+| **diegomoralesuru — trabajo en Dralmey** | [github.com/diegomoralesuru](https://github.com/diegomoralesuru) |
 
 ### Conectemos
 
