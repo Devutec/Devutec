@@ -31,7 +31,7 @@ Desarrollo de servicios backend, integraciones y funcionalidades de aplicaciones
 - **Microservicios:** comunicación entre servicios con **gRPC y Protocol Buffers (Protobuf)**.
 - **Acceso y seguridad:** desarrollo de módulos de autorización.
 - **Información de negocio:** desarrollo de reportes.
-- **IA y herramientas:** trabajo con **MCP y agentes**.
+- **Desarrollo guiado por especificaciones (SDD):** uso de **agentes de IA y herramientas MCP** para implementar servicios e integraciones a partir de especificaciones.
 - **Datos:** integración y optimización de bases de datos NoSQL, con foco en escalabilidad.
 
 **Inicio de la experiencia:** julio de 2024. [Perfil laboral en GitHub](https://github.com/diegomoralesuru) · [LinkedIn](https://www.linkedin.com/in/diegomoralesdev/)
