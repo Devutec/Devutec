@@ -1,55 +1,60 @@
-# Diego Morales Perez
+![Diego Morales Perez — Python Backend y Applied AI](assets/profile-banner.svg)
 
-### Applied AI · Python Backend · Document Automation
+<p align="center">
+  <a href="https://www.linkedin.com/in/diegomoralesdev/"><b>LinkedIn</b></a> ·
+  <a href="https://github.com/Devutec?tab=repositories"><b>Proyectos</b></a> ·
+  <a href="https://github.com/kairos-Tech-UY"><b>Curupí / Kairos Tech</b></a>
+</p>
 
-Desarrollador enfocado en conectar inteligencia artificial con aplicaciones útiles: procesamiento de documentos, APIs e integración de servicios.
+## Software útil. IA aplicada. Integraciones que conectan.
 
-**Abierto a oportunidades en AI Engineering y Backend Python.**
+Soy **Diego**, desarrollador enfocado en **Python, servicios backend y automatización documental**. Trabajo en el proyecto **Curupí** con Kairos Tech y exploro cómo integrar **OCR y RAG** en aplicaciones que trabajan con documentos.
+
+**Busco oportunidades en Backend Python y AI Engineering**, donde pueda aportar desarrollo de APIs, integración de servicios y seguir profundizando en IA aplicada.
+
+<table>
+<tr>
+<td width="33%" valign="top"><h3>01 / Backend</h3><p>Python · FastAPI · Pydantic</p><p>APIs, validación de datos y pruebas.</p></td>
+<td width="33%" valign="top"><h3>02 / IA aplicada</h3><p>OCR · RAG · Documentos</p><p>Exploración de extracción y recuperación de información.</p></td>
+<td width="33%" valign="top"><h3>03 / Desarrollo</h3><p>Docker · Linux · React Native</p><p>Entornos reproducibles y aplicaciones móviles con Expo.</p></td>
+</tr>
+</table>
+
+## Proyecto para explorar
+
+### [Pokémon API →](https://github.com/Devutec/pokemon-api-fastapi)
+
+**Python / FastAPI / Pydantic / pytest**
+
+API CRUD desarrollada como proyecto académico de DevOps en **UTEC**. Incluye validación de datos, manejo de conflictos, pruebas y documentación interactiva con OpenAPI. Usa almacenamiento en memoria.
+
+**Qué podés evaluar:** organización del backend, diseño de endpoints, validaciones y pruebas.
+
+[Ver código y guía de ejecución](https://github.com/Devutec/pokemon-api-fastapi#readme)
+
+## Mi actividad, en un solo lugar
+
+Mi trabajo está distribuido entre tres cuentas. Cada perfil conserva su propio historial de contribuciones.
+
+| Perfil | Dónde encontrarme |
+| :--- | :--- |
+| **Portfolio principal** | [Devutec](https://github.com/Devutec) |
+| **Trabajo en Dralmey** | [diegomoralesuru](https://github.com/diegomoralesuru) |
+| **Otra cuenta de desarrollo** | [diegomoralespdev](https://github.com/diegomoralespdev) |
+
+## Laboratorio de IA
+
+Exploro herramientas para transformar documentos en información utilizable. Estos enlaces apuntan a **forks de proyectos de terceros**; la autoría original corresponde a sus respectivos equipos.
+
+| Foco | Repositorios de referencia |
+| :--- | :--- |
+| **OCR y extracción documental** | [PaddleOCR](https://github.com/Devutec/PaddleOCR) · [Tesseract](https://github.com/Devutec/tesseract) · [GLM-OCR](https://github.com/Devutec/GLM-OCR-AMALIOMETRIA) |
+| **Recuperación y generación** | [Retrieval-Augmented-Generation](https://github.com/Devutec/Retrieval-Augmented-Generation) |
 
 ---
 
-### En qué estoy trabajando
+### ¿Buscás un perfil de Python e IA aplicada?
 
-- **Aplicaciones e integración:** desarrollo en el proyecto Curupí con [kairos-Tech-UY](https://github.com/kairos-Tech-UY).
-- **Backend:** APIs con Python y FastAPI, validación de datos y pruebas.
-- **IA aplicada:** exploración de OCR y generación aumentada por recuperación (RAG) para trabajar con documentos.
-- **Entornos de desarrollo:** Docker, Compose, Git y Linux; React Native y Expo para aplicaciones móviles.
+Me interesa conversar sobre oportunidades en **backend, automatización documental e integración de soluciones de IA**.
 
-### Proyecto propio
-
-**[Pokémon API — Python / FastAPI](https://github.com/Devutec/pokemon-api-fastapi)**  
-API CRUD desarrollada como proyecto académico de DevOps en UTEC. Incluye validación con Pydantic, pruebas y documentación interactiva. Utiliza almacenamiento en memoria.
-
-### Laboratorio de IA y documentos
-
-Estos repositorios son **forks de proyectos de terceros** que uso como referencia y exploración. La autoría original corresponde a sus respectivos equipos.
-
-| Área | Recurso |
-| :--- | :--- |
-| Extracción de información de documentos | [PaddleOCR](https://github.com/Devutec/PaddleOCR) |
-| Reconocimiento óptico de caracteres | [Tesseract](https://github.com/Devutec/tesseract) |
-| OCR con modelos de IA | [GLM-OCR-AMALIOMETRIA](https://github.com/Devutec/GLM-OCR-AMALIOMETRIA) |
-| Recuperación de documentos y generación | [Retrieval-Augmented-Generation](https://github.com/Devutec/Retrieval-Augmented-Generation) |
-
-### Tecnologías
-
-**Backend:** Python · FastAPI · Pydantic  
-**Intereses en IA:** OCR · RAG · procesamiento de documentos  
-**Aplicaciones:** React Native · Expo  
-**Herramientas:** Git · Docker · Docker Compose · Linux
-
-### Mis cuentas de GitHub
-
-Mi actividad está distribuida entre tres cuentas. Podés consultar los proyectos y contribuciones públicos de cada una:
-
-| Cuenta | Perfil |
-| :--- | :--- |
-| **Devutec** | [github.com/Devutec](https://github.com/Devutec) |
-| **diegomoralespdev** | [github.com/diegomoralespdev](https://github.com/diegomoralespdev) |
-| **diegomoralesuru — trabajo en Dralmey** | [github.com/diegomoralesuru](https://github.com/diegomoralesuru) |
-
-### Conectemos
-
-Busco oportunidades para desarrollar soluciones de IA aplicada, automatización documental y servicios backend.
-
-[Mis repositorios](https://github.com/Devutec?tab=repositories) · [Organización del proyecto](https://github.com/kairos-Tech-UY)
+**[Conectemos en LinkedIn →](https://www.linkedin.com/in/diegomoralesdev/)**
