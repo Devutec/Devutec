@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1222"/><stop offset="1" stop-color="#172344"/></linearGradient><linearGradient id="accent"><stop stop-color="#7dd3fc"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#7dd3fc" opacity=".10"><circle cx="1120" cy="180" r="100"/><circle cx="1120" cy="180" r="145"/><circle cx="1120" cy="180" r="195"/><path d="M860 0v360M940 0v360M1020 0v360M1100 0v360M1180 0v360M800 100h480M800 180h480M800 260h480"/></g>
+<rect x="64" y="65" width="42" height="4" rx="2" fill="url(#accent)"/>
+<text x="64" y="111" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="4" fill="#7dd3fc">PYTHON BACKEND / APPLIED AI</text>
+<text x="60" y="185" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" fill="#f8fafc">Diego Morales Perez</text>
+<text x="64" y="232" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#cbd5e1">APIs · Document automation · OCR &amp; RAG</text>
+<rect x="64" y="275" width="282" height="34" rx="17" fill="#7dd3fc" fill-opacity=".12" stroke="#7dd3fc" stroke-opacity=".35"/>
+<circle cx="84" cy="292" r="4" fill="#86efac"/>
+<text x="99" y="297" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#dbeafe">ABIERTO A OPORTUNIDADES</text>
+<text x="1040" y="200" font-family="monospace" font-size="58" fill="url(#accent)">&lt;/&gt;</text>
+</svg>
